@@ -18,3 +18,4 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
  <br><br>
 <h1>Demonstração do projeto✔️
 <br><br>
+<img align="center" width= "120%" src="demonstração.png">
